@@ -1,4 +1,4 @@
-# FITC Amsterdam 2017
+# NO SECRETS
 
 This repo contains the slides, assets and speaker notes for my WestVisions 02 presentation, "NO SECRETS".
 
