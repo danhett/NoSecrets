@@ -1,5 +1,7 @@
 # NO SECRETS
 
+![WestVisions Logo](/assets/cover.png)
+
 This repo contains the slides, assets and speaker notes for my WestVisions 02 presentation, "NO SECRETS".
 
 http://westvisions.de
